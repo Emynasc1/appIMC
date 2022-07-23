@@ -4,7 +4,7 @@
 
 <p>Nele, é apresentando uma tela de fundo, um bloco transparente contendo todo o conteúdo, o título, dois campos de digitação e um botão, do qual ao ser pressionado acionará a lógica do programa.</p> 
 
-<em>Tela inicial do aplicativo (A princípio, estaria 'Seu IMC é: '</em>
+<em>Tela inicial do aplicativo (A princípio, estaria 'Seu IMC é: ')</em>
 ![image](https://user-images.githubusercontent.com/109826788/180583873-8d67041f-b577-456d-b550-8abcb196a7aa.png)
 
 
